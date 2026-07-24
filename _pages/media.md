@@ -1,7 +1,7 @@
 ---
 title: "Media"
 layout: categories
-permalink: /Media/
+permalink: /media/
 author_profile: true
 ---
 
