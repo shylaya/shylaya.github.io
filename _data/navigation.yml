@@ -1,8 +1,8 @@
 main:
   - title: "Media"
-    url: /Media/
+    url: /media/
   - title: "Blog"
-    url: /Blog/
+    url: /blog/
   - title: "Tags"
     url: /tags/
   - title: "About"
