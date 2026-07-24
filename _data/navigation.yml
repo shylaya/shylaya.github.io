@@ -1,7 +1,7 @@
 main:
-  - title: "Portfolio"
-    url: /portfolio/
-  - projects: "Blog"
+  - title: "Media"
+    url: /Media/
+  - title: "Blog"
     url: /Blog/
   - title: "Tags"
     url: /tags/
